@@ -20,7 +20,10 @@ public final class App {
         // Lab5 lab5 = new Lab5();
         // lab5.run();
 
-        Lab6 lab6 = new Lab6();
-        lab6.run();
+        // Lab6 lab6 = new Lab6();
+        // lab6.run();
+
+        Lab7 lab7 = new Lab7();
+        lab7.run();
     }
 }
