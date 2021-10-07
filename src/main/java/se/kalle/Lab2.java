@@ -10,4 +10,7 @@ package se.kalle;
 // ÖVERKURS: Gör samma lab. Fast de två första ska vara ARRAYS och resultatet en ArrayList
 public class Lab2 {
     
+    public void run(){
+        
+    }
 }
